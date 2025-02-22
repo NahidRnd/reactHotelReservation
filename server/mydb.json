@@ -1,0 +1,395 @@
+{
+    "hotels":[
+        {
+            "id": "6017649",
+            "name": "Vakko Hotel and Residence",
+            "description": "Vakko Hotel and Residence features a fitness center, terrace, a restaurant and bar in Istanbul. A sauna and a car rental service are available for guests. The property provides a 24-hour front desk, a shuttle service, room service and free WiFi throughout the property. The hotel will provide guests with air-conditioned rooms offering a desk, a coffee machine, a fridge, a dishwasher, a safety deposit box, a flat-screen TV, a balcony and a private bathroom with a bidet. Every room has an electric tea pot, while some rooms will provide you with a patio and others also provide guests with city views. All guest rooms in Vakko Hotel and Residence are equipped with free toiletries and an iPad.A continental, vegetarian or vegan breakfast is served at the property. Popular points of interest near the accommodation include Dolmabahce Palace, Istanbul Congress Center and Taksim Metro Station. Istanbul Airport is 21 miles away.",
+            "medium_url": "src/assets/img/room-1.jpg",
+            "picture_url": [
+                "src/assets/img/vvv1.jpg",
+                "src/assets/img/vvv2.jpg",
+                "src/assets/img/vvv3.jpg",
+                "src/assets/img/vvv4.jpg",
+                "src/assets/img/vvv5.jpg"
+            ],
+            "host_location": "Istanbul, Turkey",
+            "city": "Istanbul",
+            "room_type": "Private room",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "amenities": [
+                "Free Wifi",
+                "Airport shuttle (free)",
+                "Non-smoking rooms",
+                "Restaurant",
+                "Spa",
+                "Fitness center",
+                "Breakfast"
+            ],
+            "price": 500
+        },
+        {
+            "id": "3254852",
+            "name": "JW Marriott Hotel",
+            "description": "Located in Istanbul, 7.8 miles from Blue Mosque, JW Marriott Hotel Istanbul Marmara Sea provides accommodations with a seasonal outdoor swimming pool, free private parking, a fitness center and a garden. Providing a restaurant, the property also features a shared lounge, as well as an indoor pool and a hot tub. The property has a 24-hour front desk, a shuttle service, room service and free WiFi throughout the property. Guest rooms at the hotel come with air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a shower, free toiletries and a hairdryer. Each room is equipped with a coffee machine, while certain rooms include a kitchen with a fridge, a dishwasher and an oven. At JW Marriott Hotel Istanbul Marmara Sea every room includes bed linen and towels. Guests at the accommodation can enjoy a buffet breakfast. JW Marriott Hotel Istanbul Marmara Sea offers 5-star accommodations with a spa center and terrace. There's n on-site bar and guests can also use the business area. Halic Congress Center is 8.2 miles from the hotel, while Hagia Sophia is 8.3 miles away. Istanbul Airport is 25 miles from the property.",
+            "medium_url": "src/assets/img/room-2.jpg",
+            "picture_url": [
+                "src/assets/img/jw1.jpg",
+                "src/assets/img/jw2.jpg",
+                "src/assets/img/jw3.jpg",
+                "src/assets/img/jw4.jpg",
+                "src/assets/img/jw5.jpg"
+            ],
+            "host_location": "Istanbul, Turkey",
+            "city": "Istanbul",
+            "room_type": "Private room",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "amenities": [
+                "2 swimming pools",
+                "Free Wifi",
+                "Free parking",
+                "Non-smoking rooms",
+                "Restaurant",
+                "Spa",
+                "Fitness center",
+                "Breakfast",
+                "Room service",
+                "Tea/Coffee Maker"    
+            ],
+            "price": 143
+        },
+        {
+            "id": "5602318",
+            "name": "Mandarin Oriental Bosphorus",
+            "description": "Mandarin Oriental Bosphorus, Istanbul features a fitness center, a garden and a sun terrace with swimming pool and buffet breakfast in Istanbul. Well situated in the Besiktas district, this hotel provides a shared lounge, as well as a sauna and a hot tub. The property has a kids' club, room service and currency exchange for guests. Free WiFi is available to all guests, while selected rooms will provide you with a balcony.At the hotel you'll find a restaurant serving Italian, Mediterranean and Asian cuisine. Vegetarian, dairy-free and halal options can also be requested.Mandarin Oriental Bosphorus, Istanbul offers 5-star accommodations with a hot spring bath and playground.Speaking Arabic, German, English and French at the reception, staff are always on hand to help.Dolmabahce Palace is 2.6 miles from the accommodation, while Dolmabahce Clock Tower is 3.7 miles away. Istanbul Airport is 24 miles from the property.",
+            "medium_url": "src/assets/img/room-3.jpg",
+            "picture_url": [
+                "src/assets/img/man1.jpg",
+                "src/assets/img/man2.jpg",
+                "src/assets/img/man3.jpg",
+                "src/assets/img/man4.jpg",
+                "src/assets/img/man5.jpg"
+            ],
+            "host_location": "Istanbul, Turkey",
+            "city": "Istanbul",
+            "room_type": "Private room",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "amenities": [
+                "Free Wifi",
+                "Airport shuttle (free)",
+                "Non-smoking rooms",
+                "Restaurant",
+                "Spa",
+                "Fitness center",
+                "Breakfast",
+                "Bar"
+            ],
+            "price": 500
+        },
+        {
+            "id": "6877649",
+            "name": "Çırağan Palace",
+            "description": "Well situated in the center of Istanbul, Çırağan Palace Kempinski Istanbul provides air-conditioned rooms with free WiFi, free private parking and room service. 1.1 miles from Dolmabahce Palace and 2.2 miles from Dolmabahce Clock Tower, the property has a garden and a bar. The hotel has a fitness center, year-round outdoor pool and terrace, and guests can dine in the restaurant. All rooms come with a safety deposit box, while selected rooms will provide you with a balcony. The breakfast offers buffet, continental or American options. Speaking Arabic, German, English and French at the reception, staff will be happy to provide guests with practical information on the area. Istanbul Congress Center is 2.7 miles from the hotel, while Taksim Metro Station is 2.8 miles from the property. Istanbul Airport is 23 miles away, and the property offers a paid airport shuttle service.",
+            "medium_url": "src/assets/img/ccc1.jpg",
+            "picture_url": [
+                "src/assets/img/ccc1.jpg",
+                "src/assets/img/ccc2.jpg",
+                "src/assets/img/ccc3.jpg",
+                "src/assets/img/ccc4.jpg",
+                "src/assets/img/ccc5.jpg"
+            ],
+            "host_location": "Istanbul, Turkey",
+            "city": "Istanbul",
+            "room_type": "Private room",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "amenities": [
+                "Free Wifi",
+                "Non-smoking rooms",
+                "Spa",
+                "Fitness center",
+                "Breakfast",
+                "Bar",
+                "2 swimming pools"
+            ],
+            "price": 350
+        },
+        {
+            "id": "7789512",
+            "name": "Four Seasons Hotel",
+            "description": "Located along the Bosphorus, this renovated 19th century Ottoman palace features a historic architecture in harmony with luxurious details. An indoor pool and a heated outdoor pool with free parasols and sun loungers are available. The seafront property also has a garden and a spacious terrace with panoramic views of the Bosphorus. Free WiFi and private parking are available on site. Tastefully decorated with fine furnishings, each air-conditioned room offers an iPod docking station and a flat-screen TV with satellite channels. A mini-bar, safety deposit box and a desk are also provided. Aqua Restaurant, with its terrace overlooking the Bosphorus, serves Mediterranean cuisine, with Italian and Turkish specialties. Guests can enjoy the breakfast with international flavors in buffet style. Pool grill is an ideal choice for fresh salads, crispy grilled kebabs and tender fresh fish. The Lobby Bar and Lounge is a cozy place for socialization. You can work out in the fitness center and then relax in the sauna. Guests of this luxurious hotel can also benefit from the exotic atmosphere of the Turkish bath afterwards. Spa therapy and body treatments are also possible. The reception is at your service 7/24, and provides room service. Four Seasons Hotel Istanbul at the Bosphorus is only a 4-minute walk from one of Istanbul’s lively scenes, Besiktas Square. Ataturk Airport is 16 mi from the property while Istanbul Airport is 31 mi away.",
+            "medium_url": "src/assets/img/fff1.jpg",
+            "picture_url": [
+                "src/assets/img/fff1.jpg",
+                "src/assets/img/fff2.jpg",
+                "src/assets/img/fff3.jpg",
+                "src/assets/img/fff4.jpg",
+                "src/assets/img/fff5.jpg"
+            ],
+            "host_location": "Istanbul, Turkey",
+            "city": "Istanbul",
+            "room_type": "Private room",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "amenities": [
+                "Free Wifi",
+                "Private Parking",
+                "Restaurant",
+                "Spa",
+                "Fitness center",
+                "Breakfast",
+                "Bar"
+            ],
+            "price": 650
+        },
+        {
+            "id": "5564885",
+            "name": "Elegant & unique",
+            "description": "Elegant & unique canal house in famous canal area is located in Amsterdam, just a 14-minute walk from Rijksmuseum and 0.8 miles from Dutch National Opera & Ballet. With river views, this accommodation features a terrace. The property is half a mile from the city center and a 8-minute walk from Royal Palace Amsterdam.With free Wifi, this 4-bedroom villa offers a flat-screen TV, a washing machine, and a fully equipped kitchen with a dishwasher and oven. Towels and bed linen are featured in the villa. For added privacy, the accommodation has a private entrance and soundproofing.There is an on-site coffee shop. Dining options are available close to the villa.Popular points of interest near Elegant & unique canal house in famous canal area include Anne Frank House, Rembrandtplein, and Leidseplein. The nearest airport is Schiphol Airport, 9.3 miles from the accommodation.",
+            "medium_url": "src/assets/img/ele1.jpg",
+            "picture_url": [
+                "src/assets/img/ele12.jpg",
+                "src/assets/img/ele10.jpg",
+                "src/assets/img/ele9.jpg",
+                "src/assets/img/ele11.jpg",
+                "src/assets/img/ele5.jpg"
+            ],
+            "host_location": "Amsterdam, Netherlands",
+            "city": "Amsterdam",
+            "room_type": "Private room",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "amenities": [
+                "Parking on site",
+                "Free Wifi",
+                "Terrace",
+                "Heating",
+                "Smoking area",
+                "Family rooms"
+            ],
+            "price": 2130
+        },
+        {
+            "id": "5546812",
+            "name": "Light and modern",
+            "description": "You might be eligible for a Genius discount at Light and modern apartment. Sign in to check if a Genius discount is available for your selected dates.Genius discounts at this property are subject to booking dates, stay dates, and other available deals.A recently renovated apartment, Light and modern apartment offers accommodations in Amsterdam. With garden views, this accommodation provides a terrace. Free Wifi is available throughout the property and RAI Amsterdam is a 16-minute walk away.The apartment is composed of 2 bedrooms, a fully equipped kitchen, and 2 bathrooms. A flat-screen TV is provided. The accommodation is non-smoking.Heineken Experience is 2.1 miles from the apartment, while Van Gogh Museum is 2.4 miles away. The nearest airport is Schiphol Airport, 8.1 miles from Light and modern apartment.",
+            "medium_url": "src/assets/img/lit1.jpg",
+            "picture_url": [
+                "src/assets/img/lit12.jpg",
+                "src/assets/img/lit10.jpg",
+                "src/assets/img/lit9.jpg",
+                "src/assets/img/lit11.jpg",
+                "src/assets/img/lit5.jpg"
+            ],
+            "host_location": "Amsterdam, Netherlands",
+            "city": "Amsterdam",
+            "room_type": "Private room",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "amenities": [
+                "Parking on site",
+                "Free Wifi",
+                "Terrace",
+                "Non-smoking rooms",
+                "Family rooms"
+            ],
+            "price": 2130
+        },
+        {
+            "id": "6689578",
+            "name": "Flo's Atelier",
+            "description": "Flo's Atelier - Family studio is located in Amsterdam, just 2.5 miles from Rembrandt House and 1.1 miles from Our Lord in the Attic Museum. The property is close to Dam Square, Beurs van Berlage, and Basilica of St. Nicholas. The property is 0.9 miles from the city center and a 8-minute walk from Anne Frank House.With free Wifi, this bed and breakfast offers a cable flat-screen TV, a washing machine, and a fully equipped kitchen with a dishwasher and oven. The bed and breakfast offers bed linen, towels, and laundry service.There is a coffee shop, and a grocery delivery service and a mini-market are also available.You can play table tennis at the bed and breakfast, and the area is popular for cycling. A baby safety gate is also available for guests at Flo's Atelier - Family studio.Popular points of interest near the accommodation include Amsterdam Central Station, Royal Palace Amsterdam, and Leidseplein. Schiphol Airport is 9.3 miles from the property.",
+            "medium_url": "src/assets/img/flo1.jpg",
+            "picture_url": [
+                "src/assets/img/flo12.jpg",
+                "src/assets/img/flo10.jpg",
+                "src/assets/img/flo9.jpg",
+                "src/assets/img/flo11.jpg",
+                "src/assets/img/flo5.jpg"
+            ],
+            "host_location": "Amsterdam, Netherlands",
+            "city": "Amsterdam",
+            "room_type": "Private room",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "amenities": [
+                "Parking on site",
+                "Free Wifi",
+                "Non-smoking rooms",
+                "Family rooms",
+                "Room service",
+                "Laundry",
+                "Baggage storage",
+                "Heating"
+            ],
+            "price": 2130
+        }
+    ]
+    ,
+    "services":[
+        {
+            "service_name": "Smoking area",
+            "icon": "smoking_rooms",
+            "id": 20
+        },
+        {
+            "service_name": "Free Wifi",
+            "icon": "wifi",
+            "id": 1
+        },
+
+    {
+    "service_name":     "Airport shuttle (free)",
+    "icon": "flight_land",
+    "id": 2
+},
+    {
+    "service_name":     "Non-smoking rooms",
+    "icon": "smoke_free",
+    "id": 3
+},
+    {
+    "service_name":     "Restaurant",
+    "icon": "restaurant",
+    "id": 4
+},
+    {
+    "service_name":     "Spa",
+    "icon": "spa",
+    "id": 5
+},
+    {
+    "service_name":     "Fitness center",
+    "icon": "fitness_center",
+    "id": 6
+},
+    {
+    "service_name":     "Breakfast",
+    "icon": "free_breakfast",
+    "id": 7
+},
+    {
+    "service_name":     "Bar",
+    "icon": "local_bar",
+    "id": 8
+},
+    {
+    "service_name":     "Parking on site",
+    "icon": "local_parking",
+    "id": 9
+},
+    {
+    "service_name":     "Family rooms",
+    "icon": "family_restroom",
+    "id": 10
+},
+    {
+    "service_name":     "Room service",
+    "icon": "room_service",
+    "id": 11
+},
+    {
+    "service_name":     "Laundry",
+    "icon": "local_laundry",
+    "id": 12
+},
+    {
+    "service_name":     "Baggage storage",
+    "icon": "luggage",
+    "id": 13
+},
+    {
+    "service_name":     "Heating",
+    "icon": "heat_pump",
+    "id": 14
+},
+    {
+    "service_name":     "Terrace",
+    "icon": "deck",
+    "id": 15
+},
+    {
+    "service_name":     "Private Parking",
+    "icon": "car_rental",
+    "id": 16
+},
+    {
+    "service_name":     "2 swimming pools",
+    "icon": "pool",
+    "id": 17
+},
+    {
+    "service_name":     "Free parking",
+    "icon": "no_crash",
+    "id": 18
+},
+    {
+    "service_name":     "Tea/Coffee Maker" ,
+    "icon": "coffee_maker",
+    "id": 19
+}
+        
+     
+    ]
+    ,
+    "city":[
+        {
+            "id": "5656",
+            "city_name": "Amsterdam",
+            "description": "Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city’s 17th-century Golden Age. Its Museum District houses the Van Gogh Museum, works by Rembrandt and Vermeer at the Rijksmuseum, and modern art at the Stedelijk. Cycling is key to the city’s character, and there are numerous bike paths. Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city’s 17th-century Golden Age. Its Museum District houses the Van Gogh Museum, works by Rembrandt and Vermeer at the Rijksmuseum, and modern art at the Stedelijk. Cycling is key to the city’s character, and there are numerous bike paths. Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city’s 17th-century Golden Age. Its Museum District houses the Van Gogh Museum, works by Rembrandt and Vermeer at the Rijksmuseum, and modern art at the Stedelijk. Cycling is key to the city’s character, and there are numerous bike paths. ",
+            "images": [
+                "/src/assets/img/t_amsterdam_2.jfif",
+                "/src/assets/img/t_amsterdam.jfif"
+            ]
+        },
+        {
+            "id": "5657",
+            "city_name": "Paris",
+            "description": "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré. Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré. Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré.",
+            "images": [
+                "/src/assets/img/t_paris.jfif",
+                "/src/assets/img/t_paris_2.jfif"
+            ]
+        },
+        {
+            "id": "5658",
+            "city_name": "Istanbul",
+            "description": "Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. In the Sultanahmet district, the open-air, Roman-era Hippodrome was for centuries the site of chariot races, and Egyptian obelisks also remain. The iconic Byzantine Hagia Sophia features a soaring 6th-century dome and rare Christian mosaics. Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. In the Sultanahmet district, the open-air, Roman-era Hippodrome was for centuries the site of chariot races, and Egyptian obelisks also remain. The iconic Byzantine Hagia Sophia features a soaring 6th-century dome and rare Christian mosaics. Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. In the Sultanahmet district, the open-air, Roman-era Hippodrome was for centuries the site of chariot races, and Egyptian obelisks also remain. The iconic Byzantine Hagia Sophia features a soaring 6th-century dome and rare Christian mosaics.",
+            "images": [
+                "/src/assets/img/t_istanbul.jfif",
+                "/src/assets/img/t_istanbul_2.jfif",
+                "/src/assets/img/t)istanbul_3.jfif",
+                "/src/assets/img/t_istanbul_4.jfif"
+            ]
+        },
+        {
+            "id": "5659",
+            "city_name": "Rotterdom",
+            "description": "Rotterdam is a major port city in the Dutch province of South Holland. The Maritime Museum's vintage ships and exhibits trace the city's seafaring history. The 17th-century Delfshaven neighborhood is home to canalside shopping and Pilgrim Fathers Church, where pilgrims worshiped before sailing to America. After being almost completely reconstructed following WWII, the city is now known for bold, modern architecture. Rotterdam is a major port city in the Dutch province of South Holland. The Maritime Museum's vintage ships and exhibits trace the city's seafaring history. The 17th-century Delfshaven neighborhood is home to canalside shopping and Pilgrim Fathers Church, where pilgrims worshiped before sailing to America. After being almost completely reconstructed following WWII, the city is now known for bold, modern architecture. Rotterdam is a major port city in the Dutch province of South Holland. The Maritime Museum's vintage ships and exhibits trace the city's seafaring history. The 17th-century Delfshaven neighborhood is home to canalside shopping and Pilgrim Fathers Church, where pilgrims worshiped before sailing to America. After being almost completely reconstructed following WWII, the city is now known for bold, modern architecture.",
+            "images": [
+                "/src/assets/img/t_rotterdam.jfif",
+                "/src/assets/img/t_rotterdam_2.jfif",
+                "/src/assets/img/t_rotterdam_3.jfif"
+            ]
+        },
+        {
+            "id": "5655",
+            "city_name": "Brussels",
+            "description": "The City of Brussels is the largest municipality and historical centre of the Brussels-Capital Region, as well as the capital of the French Community of Belgium, the Flemish Region and Belgium. The City of Brussels is the largest municipality and historical centre of the Brussels-Capital Region, as well as the capital of the French Community of Belgium, the Flemish Region and Belgium. The City of Brussels is the largest municipality and historical centre of the Brussels-Capital Region, as well as the capital of the French Community of Belgium, the Flemish Region and Belgium. The City of Brussels is the largest municipality and historical centre of the Brussels-Capital Region, as well as the capital of the French Community of Belgium, the Flemish Region and Belgium. The City of Brussels is the largest municipality and historical centre of the Brussels-Capital Region, as well as the capital of the French Community of Belgium, the Flemish Region and Belgium. The City of Brussels is the largest municipality and historical centre of the Brussels-Capital Region, as well as the capital of the French Community of Belgium, the Flemish Region and Belgium.",
+            "images": [
+                "/src/assets/img/t_brussels.jpg"
+            ]
+        }
+    ]
+
+}
